@@ -1,0 +1,18 @@
+Graph SizeFirst,Second,Third,Fourth,Batch,Unwind,Loadcsv
+10x10,0.535784,0.306406,0.129835,0.166504,0.28908,0.135229,0.09529
+Graph SizeFirst,Second,Third,Fourth,Batch,Unwind,Loadcsv
+10x100,0.821302,1.22567,1.02694,1.09011,1.98677,0.144256,0.058921
+Graph SizeFirst,Second,Third,Fourth,Batch,Unwind,Loadcsv
+10x1000,3.47144,10.4394,10.0904,10.327,15.1928,0.806664,0.087766
+Graph SizeFirst,Second,Third,Fourth,Batch,Unwind,Loadcsv
+100x10,3.76811,10.2601,10.2305,10.3288,15.2826,0.834575,0.079578
+Graph SizeFirst,Second,Third,Fourth,Batch,Unwind,Loadcsv
+100x100,4.6041,11.0303,11.0306,11.1645,15.8975,0.856121,0.080212
+Graph SizeFirst,Second,Third,Fourth,Batch,Unwind,Loadcsv
+100x1000,6.64826,20.2674,20.1188,20.6055,28.6269,1.44332,0.116769
+Graph SizeFirst,Second,Third,Fourth,Batch,Unwind,Loadcsv
+1000x10,30.0807,21.1877,21.0671,22.1534,29.4393,1.69446,0.141251
+Graph SizeFirst,Second,Third,Fourth,Batch,Unwind,Loadcsv
+1000x100,30.9514,21.9559,21.8318,22.7366,31.1997,1.78049,0.153016
+Graph SizeFirst,Second,Third,Fourth,Batch,Unwind,Loadcsv
+1000x1000,40.3139,30.2716,30.4225,30.9775,43.2305,2.3267,0.175694
