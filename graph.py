@@ -20,10 +20,6 @@ def bar(first,second,folder):
     colors = 'rgbkymc'
 
     x_pos = range(len(first))
-#   print second
-#   print max(second[1:])
-#   print math.ceil(float(max(second[1:])))
-#   sys.exit(1)
 
     plt.ylim([0,int(math.ceil(float(max(second[1:]))))])
 
