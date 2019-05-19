@@ -152,7 +152,6 @@ int main(int argc, char **argv) {
 
                 // Write algorithm name
                 if (i == 0) {
-                    fprintf(fout, "Graph Size");
                     fprintf(fout, "%s", alg->name);
                 }
                 else {
